@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: About
 permalink: /about/
@@ -17,7 +17,7 @@ The [Data Science Specialization](https://www.coursera.org/specialization/jhudat
 ### Community Contributors:
 
 - [Kevin Markham](http://www.dataschool.io/)
-- Derek Franks
+- Derek Franks ----- hjdkshakjdhaksjhdkjashdkjahsdjkashdkjhaskj
 - David Hood
 - Michael Sachs
 - Allan Inocêncio de Souza Costa
